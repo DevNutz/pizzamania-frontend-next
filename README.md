@@ -1,4 +1,4 @@
-# Backend with Next.js for Pizzamania Project
+# Frontend with Next.js for Pizzamania Project
 
 ## Development setup
 The project was scaffolded with the following parameters enabled:
