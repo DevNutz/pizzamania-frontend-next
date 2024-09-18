@@ -1,4 +1,4 @@
-# Backend with Mext.js for Pizzamania Project
+# Backend with Next.js for Pizzamania Project
 
 ## Development setup
 The project was scaffolded with the following parameters enabled:
@@ -11,7 +11,7 @@ The project was scaffolded with the following parameters enabled:
 To start the development:
 
 1. Clone the repository.
-2. Chande directory into the cloned project.
+2. Change directory into the cloned project.
 3. Install the needed dependencies with the command:
 
     ```bash
